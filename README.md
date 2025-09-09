@@ -8,6 +8,7 @@ Looking for entry-level non-coding technical roles (SaaS Support / Technical Sup
 📫 Contact: mukulmehra753@gmail.com
 
 ## Pinned projects
-- **MaskaChat** — Live 1v1 video calling web app. (Deployed)  
+- **MaskaChat** — Live 1v1 video calling web app. (Deployed) 
+          ---- https://maskvideochat.vercel.app ------
 - **E-Commerce Demo** — Frontend + dummy backend (resume demo).  
 - **Mini Projects** — Form validation, To-Do, Calculator (practice).
